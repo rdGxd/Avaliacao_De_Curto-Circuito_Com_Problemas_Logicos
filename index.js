@@ -10,16 +10,12 @@ let corUsuario = null || corPadrao;
 */
 
 /* AND
-const nome = "Rodrigo";
 
+const nome = "Rodrigo";
 const sobrenome = "Silva";
 const falaNome = () => {
   console.log(`${nome} ${sobrenome}`);
 };
 
 nome && sobrenome && falaNome();
-
-if (nome && sobrenome) {
-  falaNome();
-}
  */
